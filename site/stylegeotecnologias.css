@@ -1,0 +1,64 @@
+li{
+    font-size: 14px;
+    color: darkgreen;
+    font-weight: 700;
+    font-family: lato, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+body{
+    font-weight: 400;
+    font-family: lato, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    line-height: 2em;
+    margin:0ch;
+}
+
+h1{
+    font-size: 53px;
+    color:darkgreen;
+    text-transform: uppercase;
+    margin: 0ch;
+    padding: 20px;
+}
+
+h2{
+    font-size: 20;
+    color:darkgreen;
+    font-weight: 800;
+}
+
+header{
+
+    margin: 0ch;
+}
+
+section{
+    margin: 40px;
+}
+
+footer{
+    margin: 20px;
+}
+
+p{
+    text-align: justify;
+}
+
+
+
+
+h3{
+    text-transform: uppercase;
+}
+
+
+h2{
+    text-transform: uppercase;
+}
+
+
+.carousel-caption h5{
+    font-size: 50px;
+    color: rgb(177, 236, 177); 
+    text-shadow: 2px 2px 2px black;
+}
